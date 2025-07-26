@@ -1,0 +1,16 @@
+### Overview:
+
+MLB Predictor is a machine learning project designed to predict the outcomes of Major League Baseball (MLB) games. 
+It utilizes the method of logistic regression and random forest classification to analyze historical game data and make predictions about future games.
+I have also included data visualization techniques to provide insights into the game statistics.
+
+### Features:
+
+- Data preprocessing and feature engineering
+- Model training using logistic regression and random forest classifiers
+- Model evaluation and accuracy reporting
+- Data visualization for insights into game statistics
+
+### Authors:
+- Diego Garcia
+
