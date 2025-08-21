@@ -4,6 +4,18 @@ MLB Predictor is a machine learning project designed to predict the outcomes of 
 It utilizes the method of logistic regression and random forest classification to analyze historical game data and make predictions about future games.
 I have also included data visualization techniques to provide insights into the game statistics.
 
+### Procedure 
+
+I started off by extracting data from the MLB API and formating it into a dataframe. 
+
+From there, I explored ways to graph the data using the Matplotlib library. I thought it was very interesting seeing the different charts I could use to display data
+
+Then I began to work on the ML model where I started off splitting the data and using logistic regression, targeting if the home team will win (1) or if the home team will lose (0). The accuracy of this model was a 55.45%.
+
+I then tried Random Forest Classifer to see if it was any better. 
+
+
+
 ### Features:
 
 - Data preprocessing and feature engineering
