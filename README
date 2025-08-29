@@ -12,9 +12,9 @@ From there, I explored ways to graph the data using the Matplotlib library. I th
 
 Then I began to work on the ML model where I started off splitting the data and using logistic regression, targeting if the home team will win (1) or if the home team will lose (0). The accuracy of this model was a 55.45%.
 
-I then tried Random Forest Classifer to see if it was any better. 
+I then tried Random Forest Classifer to see if it was any better. The accuracy turned out to be better going from 55.45% to a 58.01%. With this model I tuned it using GridSearchCV, cross-validation, and hyperparameter optimization
 
-
+Finally, I displayed the ROC curve of this Random Forest model and showed number of predicted home and away games with a bar graph
 
 ### Features:
 
